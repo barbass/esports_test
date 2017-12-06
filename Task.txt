@@ -1,0 +1,4 @@
+And we have page, where are links to videos from all matches - http://php.esports.cz/elhcheck/. But this page we edit manually. Can you automate it? It means select from XML export every data with categoryID = 14 and show the result separately by date? 
+It would be nice, if you can show on this page only links with dates. After click on date it would shows links to the videos of hockey matches only from this one date. Is it clear? 
+
+The link for the video is in this format: http://php.esports.cz/elhcheck/index.php?id=20171003-2524281-Z-SPA-PCE. id is video id in xml
